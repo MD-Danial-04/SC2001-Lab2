@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environments and caches
+.venv/
+.matplotlib/
+
+# macOS
+.DS_Store
